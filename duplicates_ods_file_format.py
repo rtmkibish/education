@@ -1,4 +1,5 @@
 """Seeking for differense in transaction ids
+writes the differense to csv file
 """
 
 import pyexcel_ods3
