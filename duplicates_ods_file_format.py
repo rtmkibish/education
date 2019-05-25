@@ -1,3 +1,6 @@
+"""Seeking for differense in transaction ids
+"""
+
 import pyexcel_ods3
 import csv
 
